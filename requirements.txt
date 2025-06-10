@@ -1,0 +1,9 @@
+ttkbootstrap
+requests
+beautifulsoup4
+python-whois
+matplotlib
+dnspython
+selenium
+webdriver-manager
+selenium-stealth
