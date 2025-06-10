@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 پس از نصب وابستگی‌ها، برنامه را با دستور زیر اجرا کنید:
 ```bash
-python main.py
+python applications.py
 ```
 *(نام فایل اصلی را در صورت نیاز تغییر دهید)*
 
