@@ -2,7 +2,7 @@
 ابزار دسکتاپ چندمنظوره برای تحلیل امنیتی، سئو و جمع‌آوری اطلاعات وب‌سایت‌ها، ساخته شده با پایتون و سلنیوم.
 # Web Analysis Suite - مجموعه ابزار تحلیل وب
 
-![Web Analysis Suite Screenshot](https://user-images.githubusercontent.com/EXAMPLE/your-image-link.png)
+![Web Analysis Suite Screenshot](https://s33.picofile.com/file/8485037550/Screenshot_2025_06_10_215608.png)
 > **توجه:** تصویر بالا یک نمونه است. لطفاً یک اسکرین‌شات از برنامه خود گرفته و جایگزین این لینک کنید.
 
 یک ابزار دسکتاپ چندمنظوره با رابط کاربری گرافیکی (GUI) که برای تحلیل و ارزیابی امنیت و ساختار وب‌سایت‌ها طراحی شده است. این مجموعه با استفاده از Python و کتابخانه‌های قدرتمندی مانند Tkinter، TTKBootstrap، Selenium و Requests ساخته شده است.
